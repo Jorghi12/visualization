@@ -11,6 +11,10 @@ Prototypes:
 ![alt text](https://github.com/Jorghi12/visualization/blob/master/ILSVRC2012/train/n01669191/n01669191_10120.JPEG?raw=true=250x250)
 ![alt text](https://github.com/Jorghi12/visualization/blob/master/ILSVRC2012/train/n01669191/n01669191_10125.JPEG?raw=true=250x250)
 
+
+
+
+
 Critics:
 ![alt text](https://github.com/Jorghi12/visualization/blob/master/ILSVRC2012/train/n01669191/n01669191_1000.JPEG?raw=true=250x250)
 ![alt text](https://github.com/Jorghi12/visualization/blob/master/ILSVRC2012/train/n01669191/n01669191_10003.JPEG?raw=true=250x250)
